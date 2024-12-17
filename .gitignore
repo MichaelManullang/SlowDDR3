@@ -1,0 +1,14 @@
+top.v
+uart_rx.v
+uart_tx.v
+ddr3/1024Mb_ddr3_parameters.vh
+ddr3/2048Mb_ddr3_parameters.vh
+ddr3/4096Mb_ddr3_parameters.vh
+ddr3/8192Mb_ddr3_parameters.vh
+ddr3/ddr3_dimm.v
+ddr3/ddr3_mcp.v
+ddr3/ddr3_module.v
+ddr3/ddr3.v
+ddr3/readme.txt
+ddr3/subtest.vh
+ddr3/tb.v
